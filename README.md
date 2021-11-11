@@ -5,4 +5,10 @@ The project includes the following functions:
 - GPS location tracking
 - Temperature and humidity updating module in the truck bin
 - Relay module.
-![z2920117725975_95c7257f8bb69d73e72b76d8276a4ac9](https://user-images.githubusercontent.com/89629398/141227388-210fc0d6-4b66-46cf-91ab-9414694b39e5.jpg)
+
+CENTER Module
+![image](https://user-images.githubusercontent.com/89629398/141227540-6433f711-6faf-45d6-85b0-65a88e39aa4d.png)
+
+![image](https://user-images.githubusercontent.com/89629398/141227555-bafc2670-6a40-4987-aa26-a5d68f582e18.png)
+![image](https://user-images.githubusercontent.com/89629398/141227569-21841fc5-9cf0-4357-b8a5-ce149b4f49e2.png)
+
