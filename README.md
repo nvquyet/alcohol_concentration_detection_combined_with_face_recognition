@@ -18,8 +18,7 @@ The project includes the following functions:
 ![image](https://user-images.githubusercontent.com/89629398/141227555-bafc2670-6a40-4987-aa26-a5d68f582e18.png)
 
 
-                              Temperature and Humidity Module
-
+                          Temperature and Humidity Module
 ![image](https://user-images.githubusercontent.com/89629398/141227569-21841fc5-9cf0-4357-b8a5-ce149b4f49e2.png)
 
 
