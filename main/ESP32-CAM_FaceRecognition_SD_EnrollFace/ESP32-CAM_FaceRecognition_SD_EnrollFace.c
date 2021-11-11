@@ -1,4 +1,4 @@
-/* Arduino 1.8.13
+/* 
  * ESP32 Boards :ESP32 (1.0.4) . It's so important
  * Board: ESP32 Wrover Module
  * Partition Scheme: Huge APP (3MP no OTA/1MP SPIFFS)
@@ -11,7 +11,7 @@ http://192.168.xxx.xxx/status      //Nhận giá trị trạng thái hình ảnh
 Định dạng lệnh tùy chỉnh  http://192.168.xxx.xxx/control?cmd=P1;P2;P3;P4;P5;P6;P7;P8;P9
 http://192.168.xxx.xxx/control?facename=matched_id;name  //Đặt tên
 http://192.168.xxx.xxx/control?constrolstate=state       //state=0 or 1 Đặt có thực thi chức năng hay không, void FaceMatched(), void FaceNoMatched()
-官方指令格式  http://192.168.xxx.xxx/control?var=xxx&val=xxx
+http://192.168.xxx.xxx/control?var=xxx&val=xxx
 http://192.168.xxx.xxx/control?var=flash&val=value          // value= 0~255
 http://192.168.xxx.xxx/control?var=framesize&val=value      // value = 10->UXGA(1600x1200), 9->SXGA(1280x1024), 8->XGA(1024x768) ,7->SVGA(800x600), 6->VGA(640x480), 5 selected=selected->CIF(400x296), 4->QVGA(320x240), 3->HQVGA(240x176), 0->QQVGA(160x120), 11->QXGA(2048x1564 for OV3660)
 http://192.168.xxx.xxx/control?var=quality&val=value        // value = 10 ~ 63

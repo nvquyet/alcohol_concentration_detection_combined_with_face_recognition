@@ -1,4 +1,4 @@
-/* Arduino 1.8.13
+/* 
  * ESP8266 Boards (2.5.0) 
  * Thiết lập WIFI thủ công né 192.168.4.10 ra 
 */
@@ -26,7 +26,7 @@
  * Mở bằng app                            =>  unblockNowState = 1     =>  gửi 1 lần duy nhất webSocket.broadcastTXT("unblockNow"); đọc 1 lần duy nhất tổng 2 ô ram xong ghi vào timedownMinute; BLOCK =0; unblockNowState = 0;
     
  */
-#include <Arduino.h>
+
 #include <ESP8266WiFi.h>
 //#include <pgmspace.h>
 //#include <WebSocketsServer.h>

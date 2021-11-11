@@ -1,8 +1,8 @@
-/* Arduino 1.8.13
+/* 
  * ESP8266 Boards (2.5.0) 
  * 
 */
-#include <Arduino.h>
+
 #include <WebSocketsClient.h>
 #include <stdio.h>
 

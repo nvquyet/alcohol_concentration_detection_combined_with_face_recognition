@@ -1,8 +1,8 @@
-/* Arduino 1.8.13
+/* 
  * ESP8266 Boards (2.5.0) 
  * Thiết lập WIFI thủ công né 192.168.4.10 ra 
 */
-#include <Arduino.h>
+
 #include <ESP8266WiFi.h>
 //#include <pgmspace.h>
 //#include <WebSocketsServer.h>
