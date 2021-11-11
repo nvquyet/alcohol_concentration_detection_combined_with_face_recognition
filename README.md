@@ -8,8 +8,7 @@ The project includes the following functions:
 
 
 ![image](https://user-images.githubusercontent.com/89629398/141227540-6433f711-6faf-45d6-85b0-65a88e39aa4d.png)
-
-CENTER Module
+                          CENTER Module
 
 
 
